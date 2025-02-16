@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/github/issues/nakul-py/lukan" alt="GitHub Issues"/>
   <img src="https://img.shields.io/github/contributors/nakul-py/lukan" alt="Contributors"/>
   <img src="https://img.shields.io/github/actions/workflow/status/nakul-py/lukan/ci.yml?branch=main" alt="CI Status"/>
+<img src="https://img.shields.io/github/license/nakul-py/lukan?color=blue" alt="License"/>
+  
 </p>
 
 ## 📦 Installation
@@ -39,3 +41,8 @@ npm test
             <sub><b>nakul-py</b></sub>
         </a>
     </td></tr>
+
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
