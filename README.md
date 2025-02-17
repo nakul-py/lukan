@@ -18,18 +18,18 @@
 ```
 git clone https://github.com/yourusername/lukan.git  
 cd lukan  
-npm install  
+npm install  or  pnpm install
 ```
 
 ## 🚀 Usage
 Run the project locally:
 ```
-npm run
+npm run    or   pnpm run
 ```
 
 For testing:
 ```
-npm test  
+npm test    or    pnpm test
 ```
 
 ## Contributors
