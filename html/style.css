@@ -197,3 +197,52 @@
     transform: translateY(-8px) rotate(-45deg);
 }
 }
+
+/* Hero section */
+
+.main{
+    background-color: palegreen;
+}
+
+.main__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+    height: 90vh;
+    background-color: #fd674c;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+}
+
+.main__content h1 {
+    font-size: 3em;
+    background-color: #ce94e9;
+    background-image: linear-gradient(to top, red 0%, rgb(218, 141, 248) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.main__content h2 {
+    font-size: 3em;
+    background-color: #ce94e9;
+    background-image: linear-gradient(to top, rgb(0, 26, 255) 0%, rgb(250, 137, 240) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.main__content p {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(15, 180, 0);
+}
