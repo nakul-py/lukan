@@ -349,3 +349,32 @@
         margin: 2.5rem 0;
     }
 }
+
+/* Service Section */
+.services{
+    background: rgb(32, 32, 32);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.services h1{
+    background-color: #ff8177;
+    background-image: linear-gradient(
+        to right,
+        rgb(183, 0, 255) 0%,
+        rgb(255, 0, 212) 0%,
+        rgb(255, 0, 98) 21%,
+        rgb(255, 115, 0) 52%,
+        rgb(255, 238, 0) 78%,
+        rgb(145, 255, 0) 100%
+    );
+    background-color: 100%;
+    margin-bottom: 5rem;
+    font-size: 2.5rem;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
